@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000";
-const CLIENT_URL = "http://localhost:5173";
+const API_URL = "https://api.reportable.xyz";
+const CLIENT_URL = "https://reportable.xyz";
 
 export { API_URL, CLIENT_URL };
